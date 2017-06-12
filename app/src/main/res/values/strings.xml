@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">We Switched</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="catagory">
+        <item>Category (optional)</item>
+        <item>Tiny tale</item>
+        <item>Two liner</item>
+        <item>Musing</item>
+        <item>Poem</item>
+        <item>Caption tale</item>
+        <item>Conversation</item>
+    </string-array>
+
+</resources>
